@@ -33,6 +33,10 @@ echo -e "\n\033[1;35m[*] installing gimp                 \033[0m"
 echo -e "\033[1;35m-------------------------------\033[0m"
 sudo apt install -y gimp
 
+echo -e "\n\033[1;35m[*] installing discord              \033[0m"
+echo -e "\033[1;35m-------------------------------\033[0m"
+sudo apt install -y discord
+
 echo -e "\n\033[1;35m[*] installing grub customizer      \033[0m"
 echo -e "\033[1;35m-------------------------------\033[0m"
 sudo add-apt-repository -y ppa:danielrichter2007/grub-customizer
