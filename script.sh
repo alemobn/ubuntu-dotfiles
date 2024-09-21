@@ -38,6 +38,17 @@ echo -e "\n\033[1;35m[*] installing discord              \033[0m"
 echo -e "\033[1;35m-------------------------------\033[0m"
 sudo apt install -y discord
 
+echo -e "\n\033[1;35m[*] installing neofetch              \033[0m"
+echo -e "\033[1;35m-------------------------------\033[0m"
+sudo apt install -y neofetch
+
+echo -e "\n\033[1;35m[*] installing pfetch                \033[0m"
+echo -e "\033[1;35m-------------------------------\033[0m"
+git clone https://github.com/dylanaraps/pfetch.git
+chmod +x pfetch/pfetch
+sudo mv pfetch/pfetch /usr/local/bin/
+rm -rf pfetch
+
 echo -e "\n\033[1;35m[*] installing grub customizer      \033[0m"
 echo -e "\033[1;35m-------------------------------\033[0m"
 sudo add-apt-repository -y ppa:danielrichter2007/grub-customizer
