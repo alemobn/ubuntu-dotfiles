@@ -19,3 +19,9 @@
 `mkdir ~/.icons && mv numix-icon-theme-circle/Numix-Circle ~/.icons`
 
 `rm -rf numix-icon-theme-circle`
+
+**BlackBox Prompt Install**
+
+`flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
+
+`flatpak install flathub com.raggesilver.BlackBox`
