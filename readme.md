@@ -5,3 +5,7 @@
 `$ cd Lenovo-dark-grub-4k-ubuntu`
 
 `$ ./install.sh`
+
+**Breeze Cursor Install**
+
+`$ sudo apt install breeze-cursor-theme`
