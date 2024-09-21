@@ -19,7 +19,8 @@ sudo apt install -y \
     wget \
     unzip \
     gnome-tweaks \
-    software-properties-common
+    software-properties-common \
+    flatpak
 
 sudo snap install --classic code
 
