@@ -18,6 +18,14 @@
 
 `sudo apt install breeze-cursor-theme`
 
+**Orchis Theme Install (Shell)**
+
+`https://github.com/vinceliuice/Orchis-theme.git`
+
+`./Orchis-theme/install.sh -c dark -l --tweaks black`
+
+`rm -rf Orchis-theme`
+
 **Numix Circle Icon Install**
 
 `git clone https://github.com/numixproject/numix-icon-theme-circle.git`
