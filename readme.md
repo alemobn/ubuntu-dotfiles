@@ -1,3 +1,9 @@
+**Run Base Script**
+
+`git clone https://github.com/alemobn/ubuntu-desktop.git`
+
+`./ubuntu-desktop/script.sh`
+
 **Grub Theme Install**
 
 `git clone https://github.com/sudsarkar13/Lenovo-dark-grub-4k-ubuntu.git`
