@@ -22,10 +22,6 @@ sudo apt install -y \
     software-properties-common \
     flatpak
 
-echo -e "\n\033[1;35m[*] installing visual studio code    \033[0m"
-echo -e "\033[1;35m-------------------------------\033[0m"
-sudo snap install --classic code
-
 echo -e "\n\033[1;35m[*] installing google chrome         \033[0m"
 echo -e "\033[1;35m-------------------------------\033[0m"
 wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
