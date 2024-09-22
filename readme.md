@@ -45,3 +45,12 @@
 `flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
 
 `flatpak install flathub com.raggesilver.BlackBox`
+
+**Other Features**
+
+- Blur my Shell extension
+- Comic Sans base font
+- Comic Code terminal font
+- Minimal gnome animations
+- Bash or Fish shell
+- Size Dock 42
