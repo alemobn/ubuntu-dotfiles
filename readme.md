@@ -1,3 +1,5 @@
+> ⚠️ To work 100%, **User Themes** extension required
+
 **Run Base Script**
 
 `git clone https://github.com/alemobn/ubuntu-desktop.git`
