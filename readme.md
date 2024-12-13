@@ -6,9 +6,9 @@
 
 **Run Base Script**
 
-`git clone https://github.com/alemobn/ubuntu-desktop.git`
+`git clone https://github.com/alemobn/ubuntu-dotfiles.git`
 
-`./ubuntu-desktop/script.sh`
+`./ubuntu-dotfiles/script.sh`
 
 **Grub Theme Install**
 
